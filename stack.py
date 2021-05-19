@@ -3,10 +3,10 @@ class Stack:
         self.x = []		            #create empty stack
 
     def is_empty(self):
-        return self.x == []	        #return whether stack is empty or not, returns 0 or 1
+        return self.x == []	            #return whether stack is empty or not, returns 0 or 1
 
     def push(self,data):
-        self.x.append(data)	        #add data to the stack
+        self.x.append(data)	            #add data to the stack
 
     def pop(self):
         return self.x.pop()		    #remove data from the stack
