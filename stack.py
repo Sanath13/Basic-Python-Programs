@@ -1,6 +1,6 @@
 class Stack:
     def __init__(self):
-        self.x = []			# create empty stack
+        self.x = []			    #create empty stack
 
     def is_empty(self):
         return self.x == []		#return whether stack is empty or not, returns 0 or 1
