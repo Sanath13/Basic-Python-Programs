@@ -2,9 +2,10 @@
 
 In this repository, I've added a couple of basic python programs which are made easier to understand, hopefully!
 
-**__1. Leap year:__** 
+**1. Leap year:** 
 
-Condition:
+**Condition:**
+
 if year is divisible by 400 then is_leap_year
 
 else if year is divisible by 100 then not_leap_year
